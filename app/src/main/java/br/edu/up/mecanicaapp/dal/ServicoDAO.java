@@ -36,7 +36,7 @@ public class ServicoDAO {
         }
     }
 
-    public static boolean AlterarServco(Servico servico) {
+    public static boolean AlterarServico(Servico servico) {
         return true;
     }
 
